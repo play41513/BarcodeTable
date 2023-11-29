@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/20 08:22:18.820.cbproj,C:\Users\max\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\max\Documents\RAD Studio\Projects\BarcodeTable.cbproj</Transaction>
+    <Transaction>2023/06/20 08:22:30.201.cpp,C:\Users\max\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\max\Documents\RAD Studio\Projects\main.cpp</Transaction>
+    <Transaction>2023/06/20 08:22:30.201.h,C:\Users\max\Documents\RAD Studio\Projects\Unit1.h=C:\Users\max\Documents\RAD Studio\Projects\main.h</Transaction>
+    <Transaction>2023/06/20 08:22:30.201.dfm,C:\Users\max\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\max\Documents\RAD Studio\Projects\main.dfm</Transaction>
+    <Transaction>2023/06/20 08:28:43.273.cpp,C:\Users\max\Documents\RAD Studio\Projects\main.cpp=D:\SourceCode\BCB\CartonMgmt\BarcodeTable v1.0\main.cpp</Transaction>
+    <Transaction>2023/06/20 08:28:43.273.h,C:\Users\max\Documents\RAD Studio\Projects\main.h=D:\SourceCode\BCB\CartonMgmt\BarcodeTable v1.0\main.h</Transaction>
+    <Transaction>2023/06/20 08:28:43.273.dfm,C:\Users\max\Documents\RAD Studio\Projects\main.dfm=D:\SourceCode\BCB\CartonMgmt\BarcodeTable v1.0\main.dfm</Transaction>
+    <Transaction>2023/06/20 08:28:45.574.cbproj,C:\Users\max\Documents\RAD Studio\Projects\BarcodeTable.cbproj=D:\SourceCode\BCB\CartonMgmt\BarcodeTable v1.0\BarcodeTable.cbproj</Transaction>
+    <Transaction>2023/06/20 08:31:23.046.h,D:\SourceCode\BCB\CartonMgmt\CartonMgmt v1.3\ConstantString.h=</Transaction>
+  </Transactions>
+</BorlandProject>
